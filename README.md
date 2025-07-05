@@ -1,4 +1,4 @@
-# SRCNN Image Super-Resolution 🖼️
+# Image Super-Resolution With Enhanced PSNR and SSIM Using Deep Convolutional Neural Network
 
 This project implements the **Super-Resolution Convolutional Neural Network (SRCNN)** in a Jupyter Notebook (`SRCNN_model.ipynb`). The goal is to learn end-to-end mapping from low-resolution to high-resolution images using deep learning.
 
